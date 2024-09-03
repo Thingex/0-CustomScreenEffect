@@ -14,5 +14,5 @@
   2) Property with name "duration" is a float number, which will control the existing time of screen effect.
 </p>
 <p>
-  3) Property with name "overlay_alpha" has been absoluted due in current version, maybe fix?
+  3) Property with name "overlay_alpha" has been obsoleted due to unknown reason in current version, maybe fix?
 </p>
