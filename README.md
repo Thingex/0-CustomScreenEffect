@@ -16,3 +16,4 @@
 <p>
   3) Property with name "overlay_alpha" has been obsoleted due to unknown reason in current version, maybe fix?
 </p>
+<p><i><u>Still any problems? Feel free to make your comment or send it to my Email:2016248027@qq.com</u></i></p>
