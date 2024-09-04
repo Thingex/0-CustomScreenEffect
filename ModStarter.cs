@@ -6,5 +6,6 @@ public class ModStarter : IModApi
     {
         var harmony = new Harmony(base.GetType().Name);
         harmony.PatchAll(Assembly.GetExecutingAssembly());
+        DOTween.Init();
     }
 }
